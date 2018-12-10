@@ -1,0 +1,63 @@
+/* CSS Document */
+@media (max-width:748px){
+	*{ font-size:20px;}
+	.nav{display:none;}
+	.menu{display:block;}
+	.logo{ width:10%}
+	.nav_box,.contact_xiangxi,.foot,.Rea{ width:90%}
+	.lianxifangshi{ width:85%}
+	.zhongjian_zi{ margin-left:-50px;}
+	.contact_zuo{ width:95%; margin-left:auto; margin-right:auto; float:none}
+	.contact_you{ width:95%;margin-left:auto; margin-right:auto; margin-left:-50px; margin-top:40px; padding:0}
+	.group span{ margin-left:0px;}
+	.group{ width:90%;}
+	.send{ margin-left:auto; margin-right:auto; float:none; width:100%; font-size:26px; text-align:center}
+	.float_left{ float:none;font-size:20px;text-align:center; }
+	.float_right{ margin-right:180px; }
+	
+	
+	.people_xiangxi_zuo{width:95%;float:none; margin-top:40px; padding:0;  margin-left:auto; margin-right:auto; float:none}
+	.people_xiangxi_zuo img{ width:100%; margin-right:0px;}
+	.people_xiangxi_you h1{ float:none; margin-top:40px;}
+	.people_xiangxi_you{ width:95%; float:none; font-size:26px; margin-top:40px; }
+	.readmore_anniu{margin-left:auto; margin-right:auto; float:none; width:100%; font-size:26px; text-align:center;}
+	.people_xiangxi{ width:95%}
+	
+	.Rea span{ margin-left:0px; width:90%}
+	.rea_words{ width:100%; margin-left:auto; margin-right:auto; margin:0; padding:0; font-size:22px}
+	.rea_xiangxi_you p{ float:none; margin-top:40px;}
+	.mobile_xiang{ background:#e1e1e1; width:100%; height:50px; margin-top:40px; margin-left:0; margin-right:0}
+	.rea_xiangxi_box{width:100%}
+	.rea_xiangxi{ width:100%}
+	.rea_neirong{ overflow:hidden}
+	.rea_xiangxi_you h1{ float:right; width:70%}
+	.rea_neirong img{ float:left; width:20%}
+	
+	
+	.neirong{width:100%;float:none; padding:0;  margin-left:auto; margin-right:auto; }
+	.neirong_zuo{ width:100%;float:none;margin-left:auto; margin-right:auto;margin-left:0;}
+	.neirong_zuo h1{width:90%; margin-left:auto; margin-right:auto;}
+	.neirong_zuo img{ width:90%; margin-left:auto; margin-right:auto; display:block;float:none}
+	.neirong_you{ width:100%; margin-right:0; margin-top:40px; margin-left:auto; margin-right:auto;} 
+	.fanhui{ margin-left:auto; margin-right:auto; float:none; width:90%; font-size:26px; text-align:center; margin-top:40px; margin-right:0;margin-left:5%}
+	.neirong_you .you_shang{ width:90%; margin-left:auto; margin-right:auto;float:none;}
+	.neirong_you .you_xia{width:90%; margin-left:auto; margin-right:auto;float:left; margin-left:5%;}
+	
+	.pub_xiangxi1{ width:90%; margin-left:auto; margin-right:auto; margin-left:0; margin-right:0}
+	.pub_xiangxi{ width:90%}
+	.word_neirong{ width:95%}
+	.line{ display:none}
+	
+	.yincang{ display:block}
+	.shuoming{ width:95%; margin-left:auto; margin-right:auto;}
+	.shuoming_xijie{ float:none; width:100%; margin-top:40px; height:250px;}
+	.shuoming_words h1{padding-top:40px;}
+	.readmore{ width:100%; text-align:center;}
+	.shuoming_img{ width:25%; margin-top:10px; margin-right:5%}
+	.win{ width:640px; height:280px;}
+	.win img{ width:640px; height:280px;}
+	.ctrl{position:absolute;left:50%;bottom:20px;margin-left:-60px;}
+	.imgbox{ width:4100px;}
+	.workbox{ position:absolute; bottom:60px; z-index:10 }
+	 .arrowleft,.arrowright{ display:none}
+}
