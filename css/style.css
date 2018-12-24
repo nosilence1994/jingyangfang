@@ -151,9 +151,8 @@ img{padding:0; margin:0; border:none;display:block;}
 .contact_you{ float:right; width:450px;}
 .contact_you p{ color:#363636; font-size:18px; line-height:30px; }
 .contact_you h1{ font-size:20px;}
-.contact_xiangxi *{ font-size:20px;}
-.contact_xiangxi h1{ color:#2f5f90; line-height:14px; padding:0; margin:0}
-.contact_xiangxi p{ line-height:24px; font-size:18px; padding:0; margin:0}
+.contact_xiangxi h1{ font-size:20px; color:#2f5f90; line-height:14px; padding:0; margin-top:10px; margin-bottom:10px;}
+.contact_xiangxi p{ line-height:30px; font-size:16px; padding:0; margin:0}
 .contact_youxia h1{ margin-top:50px;}
 .contact_youxia p{ font-size:18px}
 .lianxifangshi_box{ margin-top:60px; background-color:#f5f5f5}
